@@ -7,8 +7,8 @@
 // @match        https://labtechsc.intellicomp.net/App_Extensions/fc234f0e-2e8e-4a1f-b977-ba41b14031f7/Launch.aspx*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=intellicomp.net
 // @grant        window.close
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/intellicomp/UserScripts/raw/main/Close%20Automate%20ScreenConnect.user.js
+// @updateURL    https://github.com/intellicomp/UserScripts/raw/main/Close%20Automate%20ScreenConnect.user.js
 // ==/UserScript==
 
 (function() {
