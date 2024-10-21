@@ -7,6 +7,8 @@
 // @match        https://service.intellicomp.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=intellicomp.net
 // @grant        none
+// @downloadURL  https://github.com/intellicomp/UserScripts/raw/refs/heads/main/HaloPSA%20Prevent%20Leaving%20When%20Entering%20Ticket%20Notes.user.js
+// @updateURL    https://github.com/intellicomp/UserScripts/raw/refs/heads/main/HaloPSA%20Prevent%20Leaving%20When%20Entering%20Ticket%20Notes.user.js
 // ==/UserScript==
 
 (function () {
